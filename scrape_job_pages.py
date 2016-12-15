@@ -211,8 +211,5 @@ job_exceptions = ['skills', 'Qualifications', 'Requirements', 'Responsibilities'
 
 
 Jobs_Database = {}
-
 find_new_jobs()
-#print(find_jobs_on_page(r"http://www.buzztime.com", r"http://www.buzztime.com/business/join-team"))
-#print(Jobs_Database)
 

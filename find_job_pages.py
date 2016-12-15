@@ -148,6 +148,5 @@ def clean_list():
 
 #clean_list()
 #update_site_listings(r"http://www.gamedevmap.com/index.php?location=&country=United%20States&state=&city=&query=&type=&start=1&count=2000", force=False)
-update_site_listings('company_urls_fails.txt')
+update_site_listings('extras/company_urls_fails.txt')
 
-#print(get_jobs_page(r"http://pocketgems.com/"))
